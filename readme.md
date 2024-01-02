@@ -6,4 +6,4 @@
 
 ## 程序截图
 
-[截图]([.\images\screen.png](https://github.com/alextomdog/gear_parameter_calculate/blob/main/images/screen.png)https://github.com/alextomdog/gear_parameter_calculate/blob/main/images/screen.png)
+![截图](https://github.com/alextomdog/gear_parameter_calculate/blob/main/images/screen.png)https://github.com/alextomdog/gear_parameter_calculate/blob/main/images/screen.png)
